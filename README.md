@@ -77,8 +77,8 @@ Automatically act on your data and communicate using third-party services like T
 #include <WiFi.h>
 #include "DHT.h"
 
-char ssid[]="North Remembers";
-char pass[]="winterfell";
+char ssid[]="codingtest 2.4g";
+char pass[]="incorrect";
 
 const int out=2;
 float temperature=0;
