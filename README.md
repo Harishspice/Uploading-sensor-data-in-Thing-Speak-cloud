@@ -129,15 +129,15 @@ delay(5000);
 ```
 
 # CIRCUIT DIAGRAM:
-![WhatsApp Image 2025-10-08 at 09 49 51_cac78aab](https://github.com/user-attachments/assets/bf699d9f-6704-4a0e-862c-6a6138b634a3)
+![WhatsApp Image 2025-11-25 at 18 14 26_ddde258d](https://github.com/user-attachments/assets/3c922b1a-6c81-4558-a4dc-b42ef42ee269)
 
 
 # OUTPUT:
-<img width="1359" height="719" alt="Screenshot 2025-10-08 094759" src="https://github.com/user-attachments/assets/ff066783-c121-4f42-b334-177488d4eefb" />
+<img width="1920" height="1080" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/ad0ab3c2-4b8d-405a-a534-da4c733f428e" />
 
 
 # RESULT:
-<img width="1348" height="596" alt="Screenshot 2025-10-08 094749" src="https://github.com/user-attachments/assets/eda3f963-6c86-40f5-907f-0c05cfeb8cfa" />
+<img width="1920" height="1080" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/6019f93d-ec45-475e-ad05-bc0c945008ce" />
 
 
 Thus the temperature sensor values are updated in the Thing speak using ESP32 controller.
