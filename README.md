@@ -77,7 +77,7 @@ Automatically act on your data and communicate using third-party services like T
 #include <WiFi.h>
 #include "DHT.h"
 
-char ssid[]="codingtest 2.4g";
+char ssid[]="CODING TEST 2.4g";
 char pass[]="incorrect";
 
 const int out=2;
